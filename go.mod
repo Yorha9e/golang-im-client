@@ -34,4 +34,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/Yorha9e/golang-im-system v0.0.0-20260517121622-18d6d288845b => D:vscodegolang-im-system
+replace github.com/Yorha9e/golang-im-system => D:/vscode/golang-im-system
